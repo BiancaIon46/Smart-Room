@@ -1,5 +1,6 @@
 # Smart-Room
-
+- Team project
+  
 This project is a prototype of a smart room. 
 
 The room counts how many people are getting in and starts the fan when there are more than 2 people inside (the fan stops when there are less than 2 people inside).
